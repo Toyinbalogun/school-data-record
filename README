@@ -1,0 +1,28 @@
+Author: Oluwatoyin Balogun
+        101076680
+
+
+Source files: Control.cc
+              Course.cc
+              DynArray.cc
+              Main.cc
+              School.cc
+              StatArray.cc
+              Student.cc
+              Taken.cc
+              View.cc
+
+Header files:Control.h
+              Course.h
+              DynArray.h
+              School.h
+              StatArray.h
+              Student.h
+              Taken.h
+              View.h
+
+To compile:
+            Type "make"
+            then type "./a02"
+
+            and test
